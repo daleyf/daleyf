@@ -1,8 +1,13 @@
-intelligence for humans
+``` thesis
+creating technology to benefit society in the following ways {​{​{  
+    1. intelligence → free, fast, private, personal [ (fp)^2 ]  
+    2. UX for ai 
+}}}
+```
+
+
 
 # the following is markdown.
-
-
 
 ``` TIMELINE
 1800-1900s [calculus, gradient descent, energy, linear regression, backpropagation, neural networks]
