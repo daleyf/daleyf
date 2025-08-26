@@ -1,5 +1,5 @@
 # Hi, I'm Daley Fraser
 
-I do AI projects
+I'm changing the world
 
 [LinkedIn](https://linkedin.com/in/daley-fraser) 
