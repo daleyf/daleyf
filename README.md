@@ -22,7 +22,7 @@ creating technology to benefit society in the following ways {​{​{
 
 
 ```WHO
-daley & shrey
+dd & jj
 2 "college students", 6 computers
 - want to buy us a 7th? how about 100?
 ```
