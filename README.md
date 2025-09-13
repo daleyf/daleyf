@@ -22,13 +22,13 @@ creating technology to benefit society in the following ways {​{​{
 
 
 ```WHO
-dd & jj
-2 "college students", 6 computers
+me
+"college student", 6 computers
 - want to buy us a 7th? how about 100?
 ```
 
 
 
 ```ANGELS
-we unfortunately need gpu $$$$
+I unfortunately need gpu $$$$
 ```
