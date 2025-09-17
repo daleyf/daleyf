@@ -16,7 +16,7 @@ creating technology to benefit society in the following ways {​{​{
 2025 [openai]
 2026 [intelligence distribution]
 2027 [ai discovers novel science]
-??? [agi LOL]
+??? [agi]
 ```
 
 
