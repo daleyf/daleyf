@@ -1,5 +1,6 @@
 ``` thesis
-creating technology to benefit society in the following ways {​{​{  
+creating technology to benefit society in the following ways
+{​{​{  
     1. intelligence → free, fast, private, personal [ (fp)^2 ]  
     2. UX for ai 
 }}}
