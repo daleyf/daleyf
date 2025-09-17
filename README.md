@@ -2,7 +2,7 @@
 ``` thesis
 creating technology to benefit society in the following ways
 {​{​{  
-    1. intelligence → free, fast, private, personal [ (fp)^2 ]  
+    1. free, fast, private, personal (fp)^2
     2. UX for ai 
 }}}
 ```
@@ -15,7 +15,7 @@ creating technology to benefit society in the following ways
 2025 [openai]
 2026 [intelligence distribution]
 2027 [ai discovers novel science]
-??? [agi]
+???  [agi]
 ```
 
 
