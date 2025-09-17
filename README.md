@@ -1,3 +1,4 @@
+### thesis
 ``` thesis
 creating technology to benefit society in the following ways
 {​{​{  
@@ -6,10 +7,7 @@ creating technology to benefit society in the following ways
 }}}
 ```
 
-
-
-# the following is markdown.
-
+### timeline
 ``` TIMELINE
 1800-1900s [calculus, gradient descent, energy, linear regression, backpropagation, neural networks]
 1900–2000 {transistor, turing machines, computers, machine learning, web}
@@ -21,7 +19,7 @@ creating technology to benefit society in the following ways
 ```
 
 
-
+### who
 ```WHO
 me & looking for cofounders & 😇
 ```
