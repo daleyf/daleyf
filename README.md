@@ -22,13 +22,5 @@ creating technology to benefit society in the following ways {​{​{
 
 
 ```WHO
-me
-"college student", 6 computers
-- want to buy us a 7th? how about 100?
-```
-
-
-
-```ANGELS
-I unfortunately need gpu $$$$
+me & looking for cofounders & 😇
 ```
